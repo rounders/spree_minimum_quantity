@@ -1,0 +1,1 @@
+Variant.additional_fields += [ :name => 'Minimum Quantity', :options => { :size => 4}  ]
